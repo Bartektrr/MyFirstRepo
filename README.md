@@ -1,5 +1,5 @@
 # First header
-Main infomration about app
+Main information about app
 
 ## Second header
 App HTML details
